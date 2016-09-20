@@ -17,11 +17,14 @@ According to the business point of view i divided the people data into
 - Q2
 - Q3
 - Q4
-to over come the overfiting i predictedd this 8 train with the test and
+
+
+
+to over come the overfiting i predict this 8 train with the test and
 scured a score of 0.991533(by taking the geometric mean of the predicted
-value) , and this all thing was done in the sparse matrix , and then i
+value)(public leaderboard) , and this all thing was done in the sparse matrix , and then i
 took the weighted average with earlier script which was giving 0.991647
-, and secured a rank of 198 (~top 10%) and hopefully my first bronze
+, and secured a rank of 198 (~top 10%) and a score of 0.991750 and hopefully my first bronze
 medal out of 2302 teams.
 I must say this one month i learnt alot and want to learn from the
 fellow kagglers / master / grandmaster .
